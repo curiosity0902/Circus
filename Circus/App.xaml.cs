@@ -13,5 +13,6 @@ namespace Circus
     /// </summary>
     public partial class App : Application
     {
+
     }
 }
